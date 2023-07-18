@@ -1,6 +1,6 @@
 ### Olá! Dev´s👋
 
-Me chamo Sabrina, porém sou mais conhecida como "MAIA" pelas pessoas que conheço.
+Me chamo Sabrina, porém sou mais conhecida como MAIA.
 <br>
 Atualmente estou cursando ADS e me especializando em Front-end:
 
