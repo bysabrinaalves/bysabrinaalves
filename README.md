@@ -1,4 +1,4 @@
-### Olá! Dev´s👋
+### Hello!👋
 
 Me chamo Sabrina, porém sou mais conhecida como MAIA.
 <br>
