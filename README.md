@@ -6,17 +6,17 @@ Atualmente estou cursando ADS e me especializando em Front-end:
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=188 align="center" src="https://github-readme-stats.vercel.app/api?username=bysabrinaalves&show_icons=true&theme=dracula" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=bysabrinaalves&show_icons=true&theme=dracula" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=188 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bysabrinaalves&layout=compact&langs_count=8&card_width=320&theme=dracula" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bysabrinaalves&layout=compact&langs_count=8&card_width=320&theme=dracula" />
 </a>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" src="https://i.picasion.com/pic92/cf86f20d0338998ea19f6c421d7a99d8.gif" width="120" height="120" border="0" alt="https://picasion.com/" />
+  <img align="right" src="https://i.picasion.com/pic92/cf86f20d0338998ea19f6c421d7a99d8.gif" width="100" height="120" border="0" alt="https://picasion.com/" />
 </div>
 
   ##
