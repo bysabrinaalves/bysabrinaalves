@@ -6,10 +6,10 @@ Atualmente estou cursando ADS e me especializando em Front-end:
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=bysabrinaalves&show_icons=true&theme=dracula" />
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=bysabrinaalves&show_icons=true&theme=dracula" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bysabrinaalves&layout=compact&langs_count=8&card_width=320&theme=dracula" />
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bysabrinaalves&layout=compact&langs_count=8&card_width=320&theme=dracula" />
 </a>
 
 <div style="display: inline_block"><br>
