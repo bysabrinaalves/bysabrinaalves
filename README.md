@@ -1,6 +1,6 @@
 ### Hello!👋
 
-Me chamo Sabrina, porém sou mais conhecida como MAIA.
+Me chamo Sabrina, porém sou mais conhecida como "MAIA".
 <br>
 Atualmente estou cursando ADS e me especializando em Front-end:
 
@@ -22,7 +22,6 @@ Atualmente estou cursando ADS e me especializando em Front-end:
   ##
  
 <div> 
-  <a href = "mailto:adm.sabrinaalves@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/saabrinaalves" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a href="https://www.linkedin.com/in/saabrinaalves" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   
 </div>
